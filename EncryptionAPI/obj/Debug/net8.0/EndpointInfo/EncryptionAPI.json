@@ -1,0 +1,52 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "EncryptionAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Encryption/encrypt": {
+      "get": {
+        "tags": [
+          "Encryption"
+        ],
+        "parameters": [
+          {
+            "name": "text",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Encryption/decrypt": {
+      "get": {
+        "tags": [
+          "Encryption"
+        ],
+        "parameters": [
+          {
+            "name": "text",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

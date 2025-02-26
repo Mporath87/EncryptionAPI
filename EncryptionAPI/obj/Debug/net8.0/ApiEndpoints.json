@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "EncryptionAPI.Controllers.EncryptionController",
+    "Method": "Decrypt",
+    "RelativePath": "Encryption/decrypt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "text",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptionAPI.Controllers.EncryptionController",
+    "Method": "Encrypt",
+    "RelativePath": "Encryption/encrypt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "text",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
