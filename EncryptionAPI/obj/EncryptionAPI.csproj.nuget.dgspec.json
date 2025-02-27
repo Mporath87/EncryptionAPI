@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\source\\repos\\EncryptionAPI\\EncryptionAPI\\EncryptionAPI.csproj": {}
+    "C:\\Users\\marti\\Source\\Repos\\EncryptionAPI\\EncryptionAPI\\EncryptionAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\source\\repos\\EncryptionAPI\\EncryptionAPI\\EncryptionAPI.csproj": {
+    "C:\\Users\\marti\\Source\\Repos\\EncryptionAPI\\EncryptionAPI\\EncryptionAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\source\\repos\\EncryptionAPI\\EncryptionAPI\\EncryptionAPI.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\Source\\Repos\\EncryptionAPI\\EncryptionAPI\\EncryptionAPI.csproj",
         "projectName": "EncryptionAPI",
-        "projectPath": "C:\\Users\\marti\\source\\repos\\EncryptionAPI\\EncryptionAPI\\EncryptionAPI.csproj",
+        "projectPath": "C:\\Users\\marti\\Source\\Repos\\EncryptionAPI\\EncryptionAPI\\EncryptionAPI.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\source\\repos\\EncryptionAPI\\EncryptionAPI\\obj\\",
+        "outputPath": "C:\\Users\\marti\\Source\\Repos\\EncryptionAPI\\EncryptionAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

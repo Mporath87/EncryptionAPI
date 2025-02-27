@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Na7fRZnJAFo=",
+  "dgSpecHash": "tY5KDD6AW/w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\source\\repos\\EncryptionAPI\\EncryptionAPI\\EncryptionAPI.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Source\\Repos\\EncryptionAPI\\EncryptionAPI\\EncryptionAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
